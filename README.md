@@ -2,7 +2,7 @@
 
 # 🎸 **Accordatore e Riconoscitore Note per Chitarra** 🎶
 
-### *App Android Native per l'Accordatura Intelligente e il Riconoscimento delle Note*
+### *App Android per l'Accordatura Intelligente e il Riconoscimento delle Note*
 
 ---
 
