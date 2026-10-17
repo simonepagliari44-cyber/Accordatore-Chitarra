@@ -63,8 +63,3 @@
 
 ---
 
-<div align="center">
-
-Made with ❤️ and 🎸 by Simone
-
-</div>

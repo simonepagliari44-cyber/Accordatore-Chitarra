@@ -70,9 +70,3 @@ app/src/main/java/com/example/guitartuner/
 > ⚠️ **Nota:** l'app richiede il permesso di registrazione audio per funzionare.
 
 ---
-
-<div align="center">
-
-Made with ❤️ and 🎸 by Simone
-
-</div>
