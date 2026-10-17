@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Strojenie gitary</string>
+    <string name="mode_tuner">Stroik</string>
+    <string name="mode_detector">Wykrywanie nut</string>
+    <string name="switch_to_detector">Przejdź do wykrywania nut</string>
+    <string name="switch_to_tuner">Przejdź do stroika</string>
+    <string name="strings_label">STRUNY</string>
+    <string name="auto">Auto</string>
+    <string name="play_a_string">Zagraj strunę</string>
+    <string name="waiting_signal">Oczekiwanie na sygnał</string>
+    <string name="in_tune">STROJNE</string>
+    <string name="too_low">ZA NISKO · podciągnij</string>
+    <string name="too_high">ZA WYSOKO · poluzuj</string>
+    <string name="string_info">Struna %1$d · %2$s (%3$s%4$d) · %5$.2f Hz</string>
+    <string name="cents_value">%1$d ¢</string>
+    <string name="play_any_note">Zagraj dowolną nutę\nprzy mikrofonie</string>
+    <string name="signal_level">Poziom sygnału</string>
+    <string-array name="note_names">
+        <item>C</item>
+        <item>C#</item>
+        <item>D</item>
+        <item>D#</item>
+        <item>E</item>
+        <item>F</item>
+        <item>F#</item>
+        <item>G</item>
+        <item>G#</item>
+        <item>A</item>
+        <item>A#</item>
+        <item>B</item>
+    </string-array>
+</resources>
+

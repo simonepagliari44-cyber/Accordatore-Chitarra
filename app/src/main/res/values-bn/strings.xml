@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">গিটার টিউনার</string>
+    <string name="mode_tuner">টিউনার</string>
+    <string name="mode_detector">নোট ডিটেক্টর</string>
+    <string name="switch_to_detector">নোট ডিটেক্টরে সুইচ করুন</string>
+    <string name="switch_to_tuner">টিউনারে সুইচ করুন</string>
+    <string name="strings_label">তার</string>
+    <string name="auto">অটো</string>
+    <string name="play_a_string">একটি তার বাজান</string>
+    <string name="waiting_signal">সংকেতের অপেক্ষায়</string>
+    <string name="in_tune">টিউনড</string>
+    <string name="too_low">খুব নিচু · টানুন</string>
+    <string name="too_high">খুব উঁচু · ঢিলা করুন</string>
+    <string name="string_info">তার %1$d · %2$s (%3$s%4$d) · %5$.2f Hz</string>
+    <string name="cents_value">%1$d ¢</string>
+    <string name="play_any_note">মাইক্রোফোনের কাছে\nযেকোনো নোট বাজান</string>
+    <string name="signal_level">সংকেত স্তর</string>
+    <string-array name="note_names">
+        <item>C</item>
+        <item>C#</item>
+        <item>D</item>
+        <item>D#</item>
+        <item>E</item>
+        <item>F</item>
+        <item>F#</item>
+        <item>G</item>
+        <item>G#</item>
+        <item>A</item>
+        <item>A#</item>
+        <item>B</item>
+    </string-array>
+</resources>
+

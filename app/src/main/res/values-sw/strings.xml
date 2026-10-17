@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kilandishi cha Gita</string>
+    <string name="mode_tuner">Kilandishi</string>
+    <string name="mode_detector">Kinambulizi cha Noto</string>
+    <string name="switch_to_detector">Badilisha kuwa kinambulizi cha noto</string>
+    <string name="switch_to_tuner">Badilisha kuwa kilandishi</string>
+    <string name="strings_label">NYOTA</string>
+    <string name="auto">Auto</string>
+    <string name="play_a_string">Cheza nyota</string>
+    <string name="waiting_signal">Inasubiri ishara</string>
+    <string name="in_tune">IMELANISHA</string>
+    <string name="too_low">CHINI · nyoosha</string>
+    <string name="too_high">JUU · achia</string>
+    <string name="string_info">Nyota %1$d · %2$s (%3$s%4$d) · %5$.2f Hz</string>
+    <string name="cents_value">%1$d ¢</string>
+    <string name="play_any_note">Cheza noto yoyote\nkaribu na mikrofoni</string>
+    <string name="signal_level">Kiwango cha ishara</string>
+    <string-array name="note_names">
+        <item>C</item>
+        <item>C#</item>
+        <item>D</item>
+        <item>D#</item>
+        <item>E</item>
+        <item>F</item>
+        <item>F#</item>
+        <item>G</item>
+        <item>G#</item>
+        <item>A</item>
+        <item>A#</item>
+        <item>B</item>
+    </string-array>
+</resources>
+

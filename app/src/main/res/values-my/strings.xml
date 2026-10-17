@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ဂီတာ တွန်နာ</string>
+    <string name="mode_tuner">တွန်နာ</string>
+    <string name="mode_detector">သီချင်း ဖော်ထုတ်သူ</string>
+    <string name="switch_to_detector">သီချင်း ဖော်ထုတ်သူသို့ ပြောင်းပါ</string>
+    <string name="switch_to_tuner">တွန်နာသို့ ပြောင်းပါ</string>
+    <string name="strings_label">ကြိုးများ</string>
+    <string name="auto">အလိုအလျောက်</string>
+    <string name="play_a_string">ကြိုးတစ်ချောင်း တီးပါ</string>
+    <string name="waiting_signal">သတိပြုစောင့်ဆိုင်းနေသည်</string>
+    <string name="in_tune">တွန်းပြီး</string>
+    <string name="too_low">အလွန်နိမ့် · ဆွဲပါ</string>
+    <string name="too_high">အလွန်မြင့် · လျှော့ပါ</string>
+    <string name="string_info">ကြိုး %1$d · %2$s (%3$s%4$d) · %5$.2f Hz</string>
+    <string name="cents_value">%1$d ¢</string>
+    <string name="play_any_note">မိုက်ခရိုဖုန်း အနီး၌\nမည်သည့် သီချင်းမဆို တီးပါ</string>
+    <string name="signal_level">သတိပြုမှု အဆင့်</string>
+    <string-array name="note_names">
+        <item>C</item>
+        <item>C#</item>
+        <item>D</item>
+        <item>D#</item>
+        <item>E</item>
+        <item>F</item>
+        <item>F#</item>
+        <item>G</item>
+        <item>G#</item>
+        <item>A</item>
+        <item>A#</item>
+        <item>B</item>
+    </string-array>
+</resources>
+

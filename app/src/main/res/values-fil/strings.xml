@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tono ng Gitara</string>
+    <string name="mode_tuner">Tono</string>
+    <string name="mode_detector">Tagahulag ng Tala</string>
+    <string name="switch_to_detector">Lumipat sa tagahulag ng tala</string>
+    <string name="switch_to_tuner">Lumipat sa tono</string>
+    <string name="strings_label">MGA KORDA</string>
+    <string name="auto">Auto</string>
+    <string name="play_a_string">Maglaro ng kuwerdas</string>
+    <string name="waiting_signal">Naghihintay ng senyas</string>
+    <string name="in_tune">NAAYOS</string>
+    <string name="too_low">MASYADONG MABABA · hila</string>
+    <string name="too_high">MASYADONG MATAAS · luwagan</string>
+    <string name="string_info">Kwerdas %1$d · %2$s (%3$s%4$d) · %5$.2f Hz</string>
+    <string name="cents_value">%1$d ¢</string>
+    <string name="play_any_note">Maglaro ng anumang tala\nmalapit sa mikropono</string>
+    <string name="signal_level">Antas ng senyas</string>
+    <string-array name="note_names">
+        <item>Do</item>
+        <item>Do#</item>
+        <item>Re</item>
+        <item>Re#</item>
+        <item>Mi</item>
+        <item>Fa</item>
+        <item>Fa#</item>
+        <item>Sol</item>
+        <item>Sol#</item>
+        <item>La</item>
+        <item>La#</item>
+        <item>Si</item>
+    </string-array>
+</resources>
+

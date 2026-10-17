@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Կիթառի լարող</string>
+    <string name="mode_tuner">Լարող</string>
+    <string name="mode_detector">Նոտայի ճանաչիչ</string>
+    <string name="switch_to_detector">Անցնել նոտայի ճանաչչին</string>
+    <string name="switch_to_tuner">Անցնել լարողին</string>
+    <string name="strings_label">ԼԱՐԵՐ</string>
+    <string name="auto">Ավտո</string>
+    <string name="play_a_string">Լարեք լարը</string>
+    <string name="waiting_signal">Սպասում է ազդանշանի</string>
+    <string name="in_tune">ԼԱՐՎԱԾ</string>
+    <string name="too_low">ՇԱՏ ՑԱԾՐ · քաշեք</string>
+    <string name="too_high">ՇԱՏ ԲԱՐՁՐ · թուլացրեք</string>
+    <string name="string_info">Լար %1$d · %2$s (%3$s%4$d) · %5$.2f Hz</string>
+    <string name="cents_value">%1$d ¢</string>
+    <string name="play_any_note">Նվագեք ցանկացած նոտա\nմիկրոֆոնի մոտ</string>
+    <string name="signal_level">Ազդանշանի մակարդակ</string>
+    <string-array name="note_names">
+        <item>Դո</item>
+        <item>Դո#</item>
+        <item>Ռե</item>
+        <item>Ռե#</item>
+        <item>Մի</item>
+        <item>Ֆա</item>
+        <item>Ֆա#</item>
+        <item>Սոլ</item>
+        <item>Սոլ#</item>
+        <item>Լա</item>
+        <item>Լա#</item>
+        <item>Սի</item>
+    </string-array>
+</resources>
+

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gitarra afinatzailea</string>
+    <string name="mode_tuner">Afinatzailea</string>
+    <string name="mode_detector">Nota detektorea</string>
+    <string name="switch_to_detector">Aldatu nota detektorera</string>
+    <string name="switch_to_tuner">Aldatu afinatzailera</string>
+    <string name="strings_label">SASTAK</string>
+    <string name="auto">Auto</string>
+    <string name="play_a_string">Jo harri bat</string>
+    <string name="waiting_signal">Seinalearen zain</string>
+    <string name="in_tune">AFINATUA</string>
+    <string name="too_low">SAXKO · tiratu</string>
+    <string name="too_high">GAINDEZ · askatu</string>
+    <string name="string_info">Harria %1$d · %2$s (%3$s%4$d) · %5$.2f Hz</string>
+    <string name="cents_value">%1$d ¢</string>
+    <string name="play_any_note">Jo edozein nota\nmikrofonoaren ondoan</string>
+    <string name="signal_level">Seinale-maila</string>
+    <string-array name="note_names">
+        <item>Do</item>
+        <item>Do#</item>
+        <item>Re</item>
+        <item>Re#</item>
+        <item>Mi</item>
+        <item>Fa</item>
+        <item>Fa#</item>
+        <item>Sol</item>
+        <item>Sol#</item>
+        <item>La</item>
+        <item>La#</item>
+        <item>Si</item>
+    </string-array>
+</resources>
+

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">guitar ටියුනරය</string>
+    <string name="mode_tuner">ටියුනරය</string>
+    <string name="mode_detector">නෝට් හඳුනාගන්නා</string>
+    <string name="switch_to_detector">නෝට් හඳුනාගන්නාට මාරු වන්න</string>
+    <string name="switch_to_tuner">ටියුනරයට මාරු වන්න</string>
+    <string name="strings_label">වියමන්</string>
+    <string name="auto">ස්වයංක්‍රීය</string>
+    <string name="play_a_string">වියමනක් වයන්න</string>
+    <string name="waiting_signal">සංඥාව බලාපොරොත්තු වේ</string>
+    <string name="in_tune">සකස් කර ඇත</string>
+    <string name="too_low">ඉතා පහළ · ඇද ගන්න</string>
+    <string name="too_high">ඉතා ඉහළ · ලිහිල් කරන්න</string>
+    <string name="string_info">වියමන %1$d · %2$s (%3$s%4$d) · %5$.2f Hz</string>
+    <string name="cents_value">%1$d ¢</string>
+    <string name="play_any_note">මයික්‍රෆෝනය අසල\nඕනෑම නෝට් වයන්න</string>
+    <string name="signal_level">සංඥා මට්ටම</string>
+    <string-array name="note_names">
+        <item>C</item>
+        <item>C#</item>
+        <item>D</item>
+        <item>D#</item>
+        <item>E</item>
+        <item>F</item>
+        <item>F#</item>
+        <item>G</item>
+        <item>G#</item>
+        <item>A</item>
+        <item>A#</item>
+        <item>B</item>
+    </string-array>
+</resources>
+

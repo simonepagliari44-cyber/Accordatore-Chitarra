@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Гітарний тюнер</string>
+    <string name="mode_tuner">Тюнер</string>
+    <string name="mode_detector">Детектор нот</string>
+    <string name="switch_to_detector">Перейти до детектора нот</string>
+    <string name="switch_to_tuner">Перейти до тюнера</string>
+    <string name="strings_label">СТРУНИ</string>
+    <string name="auto">Авто</string>
+    <string name="play_a_string">Пристройте струну</string>
+    <string name="waiting_signal">Очікування сигналу</string>
+    <string name="in_tune">НАЛАШТОВАНА</string>
+    <string name="too_low">ЗАНИЗЬКО · підтягніть</string>
+    <string name="too_high">ЗАВИСОКО · ослабте</string>
+    <string name="string_info">Струна %1$d · %2$s (%3$s%4$d) · %5$.2f Hz</string>
+    <string name="cents_value">%1$d ¢</string>
+    <string name="play_any_note">Грайте будь-яку ноту\nбіля мікрофона</string>
+    <string name="signal_level">Рівень сигналу</string>
+    <string-array name="note_names">
+        <item>До</item>
+        <item>До#</item>
+        <item>Ре</item>
+        <item>Ре#</item>
+        <item>Мі</item>
+        <item>Фа</item>
+        <item>Фа#</item>
+        <item>Соль</item>
+        <item>Соль#</item>
+        <item>Ля</item>
+        <item>Ля#</item>
+        <item>Сі</item>
+    </string-array>
+</resources>
+

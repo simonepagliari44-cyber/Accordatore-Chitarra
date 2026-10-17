@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gitarrstämning</string>
+    <string name="mode_tuner">Stämning</string>
+    <string name="mode_detector">Notdetektor</string>
+    <string name="switch_to_detector">Byt till notdetektor</string>
+    <string name="switch_to_tuner">Byt till stämning</string>
+    <string name="strings_label">STRÄNGAR</string>
+    <string name="auto">Auto</string>
+    <string name="play_a_string">Spela en sträng</string>
+    <string name="waiting_signal">Väntar på signal</string>
+    <string name="in_tune">STÄMT</string>
+    <string name="too_low">FÖR LÅG · dra åt</string>
+    <string name="too_high">FÖR HÖG · släpp</string>
+    <string name="string_info">Sträng %1$d · %2$s (%3$s%4$d) · %5$.2f Hz</string>
+    <string name="cents_value">%1$d ¢</string>
+    <string name="play_any_note">Spela vilken ton som helst\nnära mikrofonen</string>
+    <string name="signal_level">Signalnivå</string>
+    <string-array name="note_names">
+        <item>C</item>
+        <item>C#</item>
+        <item>D</item>
+        <item>D#</item>
+        <item>E</item>
+        <item>F</item>
+        <item>F#</item>
+        <item>G</item>
+        <item>G#</item>
+        <item>A</item>
+        <item>A#</item>
+        <item>B</item>
+    </string-array>
+</resources>
+

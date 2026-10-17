@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">吉他調音器</string>
+    <string name="mode_tuner">調音器</string>
+    <string name="mode_detector">音符偵測</string>
+    <string name="switch_to_detector">切換到音符偵測</string>
+    <string name="switch_to_tuner">切換到調音器</string>
+    <string name="strings_label">琴弦</string>
+    <string name="auto">自動</string>
+    <string name="play_a_string">撥動一根琴弦</string>
+    <string name="waiting_signal">等待訊號</string>
+    <string name="in_tune">已調準</string>
+    <string name="too_low">太低 · 請鎖緊</string>
+    <string name="too_high">太高 · 請放鬆</string>
+    <string name="string_info">琴弦 %1$d · %2$s (%3$s%4$d) · %5$.2f Hz</string>
+    <string name="cents_value">%1$d ¢</string>
+    <string name="play_any_note">在麥克風附近\n彈奏任意音符</string>
+    <string name="signal_level">訊號強度</string>
+    <string-array name="note_names">
+        <item>C</item>
+        <item>C#</item>
+        <item>D</item>
+        <item>D#</item>
+        <item>E</item>
+        <item>F</item>
+        <item>F#</item>
+        <item>G</item>
+        <item>G#</item>
+        <item>A</item>
+        <item>A#</item>
+        <item>B</item>
+    </string-array>
+</resources>
+

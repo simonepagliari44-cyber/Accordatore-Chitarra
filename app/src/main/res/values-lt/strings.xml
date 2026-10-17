@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gitarnas derintuvas</string>
+    <string name="mode_tuner">Derintuvas</string>
+    <string name="mode_detector">Natų detektorius</string>
+    <string name="switch_to_detector">Pereiti prie natų detektoriaus</string>
+    <string name="switch_to_tuner">Prie derintuvo</string>
+    <string name="strings_label">STRUNOS</string>
+    <string name="auto">Auto</string>
+    <string name="play_a_string">Grokite struną</string>
+    <string name="waiting_signal">Laukiama signalo</string>
+    <string name="in_tune">SUDERINTA</string>
+    <string name="too_low">PER ŽEMAI · tempkite</string>
+    <string name="too_high">PER AUKŠTAI · atlaisvinkite</string>
+    <string name="string_info">Struna %1$d · %2$s (%3$s%4$d) · %5$.2f Hz</string>
+    <string name="cents_value">%1$d ¢</string>
+    <string name="play_any_note">Grokite bet kurią natą\nšalia mikrofono</string>
+    <string name="signal_level">Signalo lygis</string>
+    <string-array name="note_names">
+        <item>C</item>
+        <item>C#</item>
+        <item>D</item>
+        <item>D#</item>
+        <item>E</item>
+        <item>F</item>
+        <item>F#</item>
+        <item>G</item>
+        <item>G#</item>
+        <item>A</item>
+        <item>A#</item>
+        <item>B</item>
+    </string-array>
+</resources>
+

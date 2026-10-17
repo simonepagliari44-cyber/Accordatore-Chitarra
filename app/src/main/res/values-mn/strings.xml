@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Гитарын тонер</string>
+    <string name="mode_tuner">Тонер</string>
+    <string name="mode_detector">Нот илрүүлэгч</string>
+    <string name="switch_to_detector">Нот илрүүлэгч рүү шилжих</string>
+    <string name="switch_to_tuner">Тонер рүү шилжих</string>
+    <string name="strings_label">Утас</string>
+    <string name="auto">Автомат</string>
+    <string name="play_a_string">Утсаа тогло</string>
+    <string name="waiting_signal">Сигнал хүлээж байна</string>
+    <string name="in_tune">Тохируулсан</string>
+    <string name="too_low">Хэт доош · чанах</string>
+    <string name="too_high">Хэт дээш · суллах</string>
+    <string name="string_info">Утас %1$d · %2$s (%3$s%4$d) · %5$.2f Hz</string>
+    <string name="cents_value">%1$d ¢</string>
+    <string name="play_any_note">Микрофоны хажууд\nямар ч нот тогло</string>
+    <string name="signal_level">Сигналын түвшин</string>
+    <string-array name="note_names">
+        <item>C</item>
+        <item>C#</item>
+        <item>D</item>
+        <item>D#</item>
+        <item>E</item>
+        <item>F</item>
+        <item>F#</item>
+        <item>G</item>
+        <item>G#</item>
+        <item>A</item>
+        <item>A#</item>
+        <item>B</item>
+    </string-array>
+</resources>
+

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Гитара стрелері</string>
+    <string name="mode_tuner">Тюнер</string>
+    <string name="mode_detector">Нота анықтағыш</string>
+    <string name="switch_to_detector">Нота анықтағышқа ауысу</string>
+    <string name="switch_to_tuner">Тюнерге ауысу</string>
+    <string name="strings_label">ҮЗІЛДІКТЕР</string>
+    <string name="auto">Автомат</string>
+    <string name="play_a_string">Стріліңізді қағыңыз</string>
+    <string name="waiting_signal">Сигнал күтілуде</string>
+    <string name="in_tune">НАЛАШТЫРЫЛҒАН</string>
+    <string name="too_low">ТӨМЕН · тартыңыз</string>
+    <string name="too_high">ЖОҒАРЫ · босатыңыз</string>
+    <string name="string_info">Стрін %1$d · %2$s (%3$s%4$d) · %5$.2f Hz</string>
+    <string name="cents_value">%1$d ¢</string>
+    <string name="play_any_note">Микрофон жанында кез келген нота ойнаңыз</string>
+    <string name="signal_level">Сигнал деңгейі</string>
+    <string-array name="note_names">
+        <item>C</item>
+        <item>C#</item>
+        <item>D</item>
+        <item>D#</item>
+        <item>E</item>
+        <item>F</item>
+        <item>F#</item>
+        <item>G</item>
+        <item>G#</item>
+        <item>A</item>
+        <item>A#</item>
+        <item>B</item>
+    </string-array>
+</resources>
+

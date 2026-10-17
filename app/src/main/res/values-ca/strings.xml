@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Afinador de guitarra</string>
+    <string name="mode_tuner">Afinador</string>
+    <string name="mode_detector">Detector de notes</string>
+    <string name="switch_to_detector">Canvia al detector de notes</string>
+    <string name="switch_to_tuner">Canvia a l\'afinador</string>
+    <string name="strings_label">CORDES</string>
+    <string name="auto">Auto</string>
+    <string name="play_a_string">Toca una corda</string>
+    <string name="waiting_signal">Esperant senyal</string>
+    <string name="in_tune">AFINAT</string>
+    <string name="too_low">BAIX · tensa més</string>
+    <string name="too_high">ALT · afluixa</string>
+    <string name="string_info">Corda %1$d · %2$s (%3$s%4$d) · %5$.2f Hz</string>
+    <string name="cents_value">%1$d ¢</string>
+    <string name="play_any_note">Toca qualsevol nota\na prop del micròfon</string>
+    <string name="signal_level">Nivell de senyal</string>
+    <string-array name="note_names">
+        <item>Do</item>
+        <item>Do#</item>
+        <item>Re</item>
+        <item>Re#</item>
+        <item>Mi</item>
+        <item>Fa</item>
+        <item>Fa#</item>
+        <item>Sol</item>
+        <item>Sol#</item>
+        <item>La</item>
+        <item>La#</item>
+        <item>Si</item>
+    </string-array>
+</resources>
+

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tunwr Gitar</string>
+    <string name="mode_tuner">Tunwr</string>
+    <string name="mode_detector">Dectector Nodi</string>
+    <string name="switch_to_detector">Newid i ddectector nodi</string>
+    <string name="switch_to_tuner">Newid i\'r tunwr</string>
+    <string name="strings_label">EDAFEDD</string>
+    <string name="auto">Auto</string>
+    <string name="play_a_string">Chwarae eden</string>
+    <string name="waiting_signal">Aros am arwydd</string>
+    <string name="in_tune">WEDDI\'N TUNNO</string>
+    <string name="too_low">RHY ISEL · tynnwch</string>
+    <string name="too_high">RHY UCHEL · rhyddhewch</string>
+    <string name="string_info">Eden %1$d · %2$s (%3$s%4$d) · %5$.2f Hz</string>
+    <string name="cents_value">%1$d ¢</string>
+    <string name="play_any_note">Chwarae unrhyw nodyn\ngerlawr y meicroffon</string>
+    <string name="signal_level">Lefel yr arwydd</string>
+    <string-array name="note_names">
+        <item>C</item>
+        <item>C#</item>
+        <item>D</item>
+        <item>D#</item>
+        <item>E</item>
+        <item>F</item>
+        <item>F#</item>
+        <item>G</item>
+        <item>G#</item>
+        <item>A</item>
+        <item>A#</item>
+        <item>B</item>
+    </string-array>
+</resources>
+

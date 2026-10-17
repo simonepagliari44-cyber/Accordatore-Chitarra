@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ギターチューナー</string>
+    <string name="mode_tuner">チューナー</string>
+    <string name="mode_detector">音符検出</string>
+    <string name="switch_to_detector">音符検出に切り替え</string>
+    <string name="switch_to_tuner">チューナーに切り替え</string>
+    <string name="strings_label">弦</string>
+    <string name="auto">自動</string>
+    <string name="play_a_string">弦を弾いてください</string>
+    <string name="waiting_signal">信号を待っています</string>
+    <string name="in_tune">チューニング済み</string>
+    <string name="too_low">低すぎる · 締めてください</string>
+    <string name="too_high">高すぎる · 緩めてください</string>
+    <string name="string_info">弦 %1$d · %2$s (%3$s%4$d) · %5$.2f Hz</string>
+    <string name="cents_value">%1$d ¢</string>
+    <string name="play_any_note">マイクの近くで\n任意の音を弾いてください</string>
+    <string name="signal_level">信号レベル</string>
+    <string-array name="note_names">
+        <item>ド</item>
+        <item>ド#</item>
+        <item>レ</item>
+        <item>レ#</item>
+        <item>ミ</item>
+        <item>ファ</item>
+        <item>ファ#</item>
+        <item>ソ</item>
+        <item>ソ#</item>
+        <item>ラ</item>
+        <item>ラ#</item>
+        <item>シ</item>
+    </string-array>
+</resources>
+

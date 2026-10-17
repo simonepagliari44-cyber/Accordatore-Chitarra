@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ģitāras stellētājs</string>
+    <string name="mode_tuner">Stellētājs</string>
+    <string name="mode_detector">Nostu detektors</string>
+    <string name="switch_to_detector">Pārslēgt uz nostu detektoru</string>
+    <string name="switch_to_tuner">Pārslēgt uz stellētāju</string>
+    <string name="strings_label">STRUNAS</string>
+    <string name="auto">Auto</string>
+    <string name="play_a_string">Saspēlē strunu</string>
+    <string name="waiting_signal">Gaida signālu</string>
+    <string name="in_tune">NOSTĀDĪTA</string>
+    <string name="too_low">PAR ZEMU · pievelc</string>
+    <string name="too_high">PAR AUGSU · atslābinu</string>
+    <string name="string_info">Struna %1$d · %2$s (%3$s%4$d) · %5$.2f Hz</string>
+    <string name="cents_value">%1$d ¢</string>
+    <string name="play_any_note">Saspēlē jebkuru notu\npie mikrofona</string>
+    <string name="signal_level">Signāla līmenis</string>
+    <string-array name="note_names">
+        <item>C</item>
+        <item>C#</item>
+        <item>D</item>
+        <item>D#</item>
+        <item>E</item>
+        <item>F</item>
+        <item>F#</item>
+        <item>G</item>
+        <item>G#</item>
+        <item>A</item>
+        <item>A#</item>
+        <item>B</item>
+    </string-array>
+</resources>
+

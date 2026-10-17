@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Гитарски штимунг</string>
+    <string name="mode_tuner">Штимунг</string>
+    <string name="mode_detector">Детектор нота</string>
+    <string name="switch_to_detector">Пређи на детектор нота</string>
+    <string name="switch_to_tuner">Пређи на штимунг</string>
+    <string name="strings_label">ЖИЦЕ</string>
+    <string name="auto">Ауто</string>
+    <string name="play_a_string">Засвирај жицу</string>
+    <string name="waiting_signal">Чекање на сигнал</string>
+    <string name="in_tune">ШТИМАНО</string>
+    <string name="too_low">ПРЕНИСКО · затегни</string>
+    <string name="too_high">ПРЕВИСОКО · опусти</string>
+    <string name="string_info">Жица %1$d · %2$s (%3$s%4$d) · %5$.2f Hz</string>
+    <string name="cents_value">%1$d ¢</string>
+    <string name="play_any_note">Засвирај било коју ноту\nпоред микрофона</string>
+    <string name="signal_level">Ниво сигнала</string>
+    <string-array name="note_names">
+        <item>C</item>
+        <item>C#</item>
+        <item>D</item>
+        <item>D#</item>
+        <item>E</item>
+        <item>F</item>
+        <item>F#</item>
+        <item>G</item>
+        <item>G#</item>
+        <item>A</item>
+        <item>A#</item>
+        <item>B</item>
+    </string-array>
+</resources>
+

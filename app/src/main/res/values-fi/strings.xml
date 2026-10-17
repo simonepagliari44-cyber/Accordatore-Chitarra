@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kitaran vääntäjä</string>
+    <string name="mode_tuner">Vääntäjä</string>
+    <string name="mode_detector">Nuovidetektori</string>
+    <string name="switch_to_detector">Siirry nuovidetektoriin</string>
+    <string name="switch_to_tuner">Siirry vääntäjään</string>
+    <string name="strings_label">KIELOT</string>
+    <string name="auto">Auto</string>
+    <string name="play_a_string">Soita kieli</string>
+    <string name="waiting_signal">Odotetaan signaalia</string>
+    <string name="in_tune">VÄÄNNETTY</string>
+    <string name="too_low">LIIAN MATALA · kiristä</string>
+    <string name="too_high">LIIAN KORVA · löysennä</string>
+    <string name="string_info">Kieli %1$d · %2$s (%3$s%4$d) · %5$.2f Hz</string>
+    <string name="cents_value">%1$d ¢</string>
+    <string name="play_any_note">Soita mikä tahansa nuotti\nmikrofonin lähellä</string>
+    <string name="signal_level">Signaalitaso</string>
+    <string-array name="note_names">
+        <item>C</item>
+        <item>C#</item>
+        <item>D</item>
+        <item>D#</item>
+        <item>E</item>
+        <item>F</item>
+        <item>F#</item>
+        <item>G</item>
+        <item>G#</item>
+        <item>A</item>
+        <item>A#</item>
+        <item>B</item>
+    </string-array>
+</resources>
+

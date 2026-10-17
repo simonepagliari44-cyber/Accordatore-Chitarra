@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kitarrihäälestaja</string>
+    <string name="mode_tuner">Häälestaja</string>
+    <string name="mode_detector">Noodidetektor</string>
+    <string name="switch_to_detector">Lülitu noodidetektorile</string>
+    <string name="switch_to_tuner">Lülitu häälestajale</string>
+    <string name="strings_label">KEELED</string>
+    <string name="auto">Auto</string>
+    <string name="play_a_string">Mängi keelt</string>
+    <string name="waiting_signal">Ootan signaali</string>
+    <string name="in_tune">HÄÄLESTATUD</string>
+    <string name="too_low">LIIGA MADAL · pinguta</string>
+    <string name="too_high">LIIGA KÕRGE · lõdvenda</string>
+    <string name="string_info">Keel %1$d · %2$s (%3$s%4$d) · %5$.2f Hz</string>
+    <string name="cents_value">%1$d ¢</string>
+    <string name="play_any_note">Mängi suvalist nooti\nmikrofoni lähedal</string>
+    <string name="signal_level">Signaali tase</string>
+    <string-array name="note_names">
+        <item>C</item>
+        <item>C#</item>
+        <item>D</item>
+        <item>D#</item>
+        <item>E</item>
+        <item>F</item>
+        <item>F#</item>
+        <item>G</item>
+        <item>G#</item>
+        <item>A</item>
+        <item>A#</item>
+        <item>B</item>
+    </string-array>
+</resources>
+

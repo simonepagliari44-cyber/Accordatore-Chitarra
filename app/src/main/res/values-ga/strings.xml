@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tiúnadóir Giotár</string>
+    <string name="mode_tuner">Tiúnadóir</string>
+    <string name="mode_detector">Brathadóir Nótaí</string>
+    <string name="switch_to_detector">Aighris chuig brathadóir nótaí</string>
+    <string name="switch_to_tuner">Aighris chuig an tiúnadóir</string>
+    <string name="strings_label">SREANGAN</string>
+    <string name="auto">Auto</string>
+    <string name="play_a_string">Seinn sreang</string>
+    <string name="waiting_signal">Ag fanacht le comhartha</string>
+    <string name="in_tune">TUNNTE</string>
+    <string name="too_low">RO ÍSEAL · tarraing</string>
+    <string name="too_high">RO ARD · scaoil</string>
+    <string name="string_info">Sreang %1$d · %2$s (%3$s%4$d) · %5$.2f Hz</string>
+    <string name="cents_value">%1$d ¢</string>
+    <string name="play_any_note">Seinn nóta ar bith\nin aice leis an micreafón</string>
+    <string name="signal_level">Leibhéal an chomhartha</string>
+    <string-array name="note_names">
+        <item>C</item>
+        <item>C#</item>
+        <item>D</item>
+        <item>D#</item>
+        <item>E</item>
+        <item>F</item>
+        <item>F#</item>
+        <item>G</item>
+        <item>G#</item>
+        <item>A</item>
+        <item>A#</item>
+        <item>B</item>
+    </string-array>
+</resources>
+

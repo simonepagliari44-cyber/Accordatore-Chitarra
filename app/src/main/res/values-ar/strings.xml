@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مضبط الجيتار</string>
+    <string name="mode_tuner">مضبط</string>
+    <string name="mode_detector">كاشف النوتات</string>
+    <string name="switch_to_detector">التبديل إلى كاشف النوتات</string>
+    <string name="switch_to_tuner">التبديل إلى المضبط</string>
+    <string name="strings_label">أوتار</string>
+    <string name="auto">تلقائي</string>
+    <string name="play_a_string">عزف وتر واحد</string>
+    <string name="waiting_signal">بانتظار الإشارة</string>
+    <string name="in_tune">مضبوط</string>
+    <string name="too_low">منخفض جدًا · اشد</string>
+    <string name="too_high">مرتفع جدًا · أفلت</string>
+    <string name="string_info">وتر %1$d · %2$s (%3$s%4$d) · %5$.2f Hz</string>
+    <string name="cents_value">%1$d ¢</string>
+    <string name="play_any_note">عزف أي نوتة\nبالقرب من الميكروفون</string>
+    <string name="signal_level">مستوى الإشارة</string>
+    <string-array name="note_names">
+        <item>دو</item>
+        <item>دو#</item>
+        <item>ري</item>
+        <item>ري#</item>
+        <item>مي</item>
+        <item>فا</item>
+        <item>فا#</item>
+        <item>صول</item>
+        <item>صول#</item>
+        <item>لا</item>
+        <item>لا#</item>
+        <item>سي</item>
+    </string-array>
+</resources>
+

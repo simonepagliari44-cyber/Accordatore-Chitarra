@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">గిటార్ ట్యూనర్</string>
+    <string name="mode_tuner">ట్యూనర్</string>
+    <string name="mode_detector">నోట్ డిటెక్టర్</string>
+    <string name="switch_to_detector">నోట్ డిటెక్టర్‌కు మారండి</string>
+    <string name="switch_to_tuner">ట్యూనర్‌కు మారండి</string>
+    <string name="strings_label">తీగలు</string>
+    <string name="auto">ఆటో</string>
+    <string name="play_a_string">ఒక తీగ వాయించండి</string>
+    <string name="waiting_signal">సంకేతం కోసం వేచి ఉంది</string>
+    <string name="in_tune">ట్యూన్ చేయబడింది</string>
+    <string name="too_low">చాలా తక్కువ · లాగండి</string>
+    <string name="too_high">చాలా ఎక్కువ · వదలండి</string>
+    <string name="string_info">తీగ %1$d · %2$s (%3$s%4$d) · %5$.2f Hz</string>
+    <string name="cents_value">%1$d ¢</string>
+    <string name="play_any_note">మైక్రోఫోన్ దగ్గర\nఏదైనా నోట్ వాయించండి</string>
+    <string name="signal_level">సంకేత స్థాయి</string>
+    <string-array name="note_names">
+        <item>C</item>
+        <item>C#</item>
+        <item>D</item>
+        <item>D#</item>
+        <item>E</item>
+        <item>F</item>
+        <item>F#</item>
+        <item>G</item>
+        <item>G#</item>
+        <item>A</item>
+        <item>A#</item>
+        <item>B</item>
+    </string-array>
+</resources>
+

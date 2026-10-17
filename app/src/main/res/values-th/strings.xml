@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">จูนกีตาร์</string>
+    <string name="mode_tuner">ตูนเนอร์</string>
+    <string name="mode_detector">ตัวจับโน้ต</string>
+    <string name="switch_to_detector">สลับไปตัวจับโน้ต</string>
+    <string name="switch_to_tuner">สลับไปตูนเนอร์</string>
+    <string name="strings_label">สาย</string>
+    <string name="auto">อัตโนมัติ</string>
+    <string name="play_a_string">ดีดสายหนึ่ง</string>
+    <string name="waiting_signal">กำลังรอสัญญาณ</string>
+    <string name="in_tune">ตรงคีย์</string>
+    <string name="too_low">ต่ำเกินไป · ขึงขึ้น</string>
+    <string name="too_high">สูงเกินไป · คลายออก</string>
+    <string name="string_info">สาย %1$d · %2$s (%3$s%4$d) · %5$.2f Hz</string>
+    <string name="cents_value">%1$d ¢</string>
+    <string name="play_any_note">ดีดโน้ตใดก็ได้\nใกล้ไมโครโฟน</string>
+    <string name="signal_level">ระดับสัญญาณ</string>
+    <string-array name="note_names">
+        <item>โด</item>
+        <item>โด♯</item>
+        <item>เร</item>
+        <item>เร♯</item>
+        <item>มิ</item>
+        <item>ฟา</item>
+        <item>ฟา♯</item>
+        <item>ซอล</item>
+        <item>ซอล♯</item>
+        <item>ลา</item>
+        <item>ลา♯</item>
+        <item>ซี</item>
+    </string-array>
+</resources>
+

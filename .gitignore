@@ -1,0 +1,89 @@
+# ---------------------------------------------------------------
+# Accordatore Chitarra — .gitignore (Android / Gradle / Kotlin)
+# ---------------------------------------------------------------
+
+# --- Build outputs ---
+*.apk
+*.aab
+*.ap_
+*.aab
+*.dex
+bin/
+gen/
+out/
+build/
+app/build/
+*/build/
+
+# --- Gradle ---
+.gradle/
+.gradletasknamecache
+!gradle/wrapper/gradle-wrapper.jar
+
+# --- IDE: Android Studio / IntelliJ ---
+*.iml
+.idea/
+.idea/caches/
+.idea/libraries/
+.idea/misc.xml
+.idea/modules.xml
+.idea/uiDesigner.xml
+.idea/markdown.xml
+.idea/kotlinc.xml
+.idea/compiler.xml
+.idea/gradle.xml
+.idea/jarRepositories.xml
+.idea/deploymentTargetSelector.xml
+.idea/runConfigurations.xml
+.idea/androidTestResultsUserPreferences.xml
+*.ipr
+*.iws
+atlassian-ide-plugin.xml
+
+# --- Local configuration ---
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+*.hprof
+
+# --- OS ---
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# --- Kotlin / Java ---
+*.class
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+*.war
+*.ear
+*.nar
+kotlin-js-store/
+
+# --- Signing / keystore (MAI committare!) ---
+*.jks
+*.keystore
+keystore.properties
+signing.properties
+
+# --- Firebase / Google Services ---
+google-services.json
+
+# --- Logs e database locali ---
+*.log
+*.sqlite
+*.db
+
+# --- Misc ---
+*.swp
+*~
+.vscode/
+.cursor/
+.env
+.env.*

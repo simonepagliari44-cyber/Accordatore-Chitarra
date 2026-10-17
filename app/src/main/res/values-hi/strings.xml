@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">गिटार ट्यूनर</string>
+    <string name="mode_tuner">ट्यूनर</string>
+    <string name="mode_detector">नोट डिटेक्टर</string>
+    <string name="switch_to_detector">नोट डिटेक्टर पर स्विच करें</string>
+    <string name="switch_to_tuner">ट्यूनर पर स्विच करें</string>
+    <string name="strings_label">तार</string>
+    <string name="auto">ऑटो</string>
+    <string name="play_a_string">एक तार बजाएँ</string>
+    <string name="waiting_signal">संकेत की प्रतीक्षा में</string>
+    <string name="in_tune">ट्यून</string>
+    <string name="too_low">बहुत नीचा · खींचें</string>
+    <string name="too_high">बहुत ऊँचा · ढीला करें</string>
+    <string name="string_info">तार %1$d · %2$s (%3$s%4$d) · %5$.2f Hz</string>
+    <string name="cents_value">%1$d ¢</string>
+    <string name="play_any_note">माइक्रोफ़ोन के पास\nकोई भी नोट बजाएँ</string>
+    <string name="signal_level">संकेत स्तर</string>
+    <string-array name="note_names">
+        <item>C</item>
+        <item>C#</item>
+        <item>D</item>
+        <item>D#</item>
+        <item>E</item>
+        <item>F</item>
+        <item>F#</item>
+        <item>G</item>
+        <item>G#</item>
+        <item>A</item>
+        <item>A#</item>
+        <item>B</item>
+    </string-array>
+</resources>
+

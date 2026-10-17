@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ਗਿਟਾਰ ਟਿਊਨਰ</string>
+    <string name="mode_tuner">ਟਿਊਨਰ</string>
+    <string name="mode_detector">ਨੋਟ ਡਿਟੈਕਟਰ</string>
+    <string name="switch_to_detector">ਨੋਟ ਡਿਟੈਕਟਰ ਉੱਤੇ ਸਵਿਚ ਕਰੋ</string>
+    <string name="switch_to_tuner">ਟਿਊਨਰ ਉੱਤੇ ਸਵਿਚ ਕਰੋ</string>
+    <string name="strings_label">ਤਾਰ</string>
+    <string name="auto">ਆਟੋ</string>
+    <string name="play_a_string">ਇੱਕ ਤਾਰ ਵਜਾਓ</string>
+    <string name="waiting_signal">ਸੰਕੇਤ ਦੀ ਉਡੀਕ</string>
+    <string name="in_tune">ਟਿਊਨ ਕੀਤਾ</string>
+    <string name="too_low">ਬਹੁਤ ਹੇਠਾਂ · ਖਿੱਚੋ</string>
+    <string name="too_high">ਬਹੁਤ ਉੱਪਰ · ਢਿੱਲਾ ਕਰੋ</string>
+    <string name="string_info">ਤਾਰ %1$d · %2$s (%3$s%4$d) · %5$.2f Hz</string>
+    <string name="cents_value">%1$d ¢</string>
+    <string name="play_any_note">ਮਾਈਕ੍ਰੋਫੋਨ ਕੋਲ\nਕੋਈ ਵੀ ਨੋਟ ਵਜਾਓ</string>
+    <string name="signal_level">ਸੰਕੇਤ ਪੱਧਰ</string>
+    <string-array name="note_names">
+        <item>C</item>
+        <item>C#</item>
+        <item>D</item>
+        <item>D#</item>
+        <item>E</item>
+        <item>F</item>
+        <item>F#</item>
+        <item>G</item>
+        <item>G#</item>
+        <item>A</item>
+        <item>A#</item>
+        <item>B</item>
+    </string-array>
+</resources>
+

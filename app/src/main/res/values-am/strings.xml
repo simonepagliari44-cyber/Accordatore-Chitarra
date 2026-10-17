@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">የጊታር መጣያ</string>
+    <string name="mode_tuner">መጣያ</string>
+    <string name="mode_detector">የተረጃ አዋጅ</string>
+    <string name="switch_to_detector">ወደ የተረጃ አዋጅ ተለዋዋጭ</string>
+    <string name="switch_to_tuner">ወደ መጣያ ተለዋዋጭ</string>
+    <string name="strings_label">መሣሪያዎች</string>
+    <string name="auto">በራስ ሰር</string>
+    <string name="play_a_string">መሣሪያ ንካቸው</string>
+    <string name="waiting_signal">የምልክት ግምባር</string>
+    <string name="in_tune">ተጣምሯል</string>
+    <string name="too_low">በጣት ከፍ አድርግ</string>
+    <string name="too_high">በጣት ዝቅ አድርግ</string>
+    <string name="string_info">መሣሪያ %1$d · %2$s (%3$s%4$d) · %5$.2f Hz</string>
+    <string name="cents_value">%1$d ¢</string>
+    <string name="play_any_note">በማይክሮፎን አጠገብ\nማንኛውንም ቁጥር አጫውት</string>
+    <string name="signal_level">የምልክት ደረጃ</string>
+    <string-array name="note_names">
+        <item>C</item>
+        <item>C#</item>
+        <item>D</item>
+        <item>D#</item>
+        <item>E</item>
+        <item>F</item>
+        <item>F#</item>
+        <item>G</item>
+        <item>G#</item>
+        <item>A</item>
+        <item>A#</item>
+        <item>B</item>
+    </string-array>
+</resources>
+

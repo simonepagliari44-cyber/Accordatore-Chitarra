@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ឧបករណ៍ត្រួតពិនិត្យហ្គីតា</string>
+    <string name="mode_tuner">ឧបករណ៍ត្រួតពិនិត្យ</string>
+    <string name="mode_detector">រកឃើញបទភ្លេង</string>
+    <string name="switch_to_detector">ប្តូរទៅរកឃើញបទភ្លេង</string>
+    <string name="switch_to_tuner">ប្តូរទៅឧបករណ៍ត្រួតពិនិត្យ</string>
+    <string name="strings_label">ខ្សែរ</string>
+    <string name="auto">ស្វ័យប្រវត្តិ</string>
+    <string name="play_a_string">លេងខ្សែមួយ</string>
+    <string name="waiting_signal">រង់ចាំសញ្ញា</string>
+    <string name="in_tune">បានកែសម្លេង</string>
+    <string name="too_low">ទាបណាស់ · ទាញឡើង</string>
+    <string name="too_high">ខ្ពស់ណាស់ · បន្ធូរ</string>
+    <string name="string_info">ខ្សែ %1$d · %2$s (%3$s%4$d) · %5$.2f Hz</string>
+    <string name="cents_value">%1$d ¢</string>
+    <string name="play_any_note">លេងបទភ្លេងណាមួយ\nនៅជិតម៉ៃក្រូហ្វូន</string>
+    <string name="signal_level">កម្រិតសញ្ញា</string>
+    <string-array name="note_names">
+        <item>C</item>
+        <item>C#</item>
+        <item>D</item>
+        <item>D#</item>
+        <item>E</item>
+        <item>F</item>
+        <item>F#</item>
+        <item>G</item>
+        <item>G#</item>
+        <item>A</item>
+        <item>A#</item>
+        <item>B</item>
+    </string-array>
+</resources>
+

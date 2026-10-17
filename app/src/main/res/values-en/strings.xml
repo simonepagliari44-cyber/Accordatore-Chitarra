@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guitar Tuner</string>
+    <string name="mode_tuner">Tuner</string>
+    <string name="mode_detector">Note Detector</string>
+    <string name="switch_to_detector">Switch to note detector</string>
+    <string name="switch_to_tuner">Switch to tuner</string>
+    <string name="strings_label">STRINGS</string>
+    <string name="auto">Auto</string>
+    <string name="play_a_string">Play a string</string>
+    <string name="waiting_signal">Waiting for signal</string>
+    <string name="in_tune">IN TUNE</string>
+    <string name="too_low">PULL · too low</string>
+    <string name="too_high">RELEASE · too high</string>
+    <string name="string_info">String %1$d · %2$s (%3$s%4$d) · %5$.2f Hz</string>
+    <string name="cents_value">%1$d ¢</string>
+    <string name="play_any_note">Play any note\nnear the microphone</string>
+    <string name="signal_level">Signal level</string>
+    <string-array name="note_names">
+        <item>C</item>
+        <item>C#</item>
+        <item>D</item>
+        <item>D#</item>
+        <item>E</item>
+        <item>F</item>
+        <item>F#</item>
+        <item>G</item>
+        <item>G#</item>
+        <item>A</item>
+        <item>A#</item>
+        <item>B</item>
+    </string-array>
+</resources>
+

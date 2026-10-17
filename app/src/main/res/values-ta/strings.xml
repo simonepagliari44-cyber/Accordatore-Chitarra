@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">கிட்டார் ட்யூனர்</string>
+    <string name="mode_tuner">ட்யூனர்</string>
+    <string name="mode_detector">குறிப்பு கண்டறிபவர்</string>
+    <string name="switch_to_detector">குறிப்பு கண்டறிபவருக்கு மாற்று</string>
+    <string name="switch_to_tuner">ட்யூனருக்கு மாற்று</string>
+    <string name="strings_label">கம்பிகள்</string>
+    <string name="auto">தானியங்கி</string>
+    <string name="play_a_string">ஒரு கம்பியை வாசிக்கவும்</string>
+    <string name="waiting_signal">சமிக்ஞைக்கு காத்திருக்கிறது</string>
+    <string name="in_tune">சரிசெய்யப்பட்டது</string>
+    <string name="too_low">மிகக் குறைவு · இழுக்கவும்</string>
+    <string name="too_high">மிக அதிகம் · தளர்த்தவும்</string>
+    <string name="string_info">கம்பி %1$d · %2$s (%3$s%4$d) · %5$.2f Hz</string>
+    <string name="cents_value">%1$d ¢</string>
+    <string name="play_any_note">மைக்ரோஃபோன் அருகில்\nஎந்த குறிப்பையும் வாசிக்கவும்</string>
+    <string name="signal_level">சமிக்ஞை நிலை</string>
+    <string-array name="note_names">
+        <item>C</item>
+        <item>C#</item>
+        <item>D</item>
+        <item>D#</item>
+        <item>E</item>
+        <item>F</item>
+        <item>F#</item>
+        <item>G</item>
+        <item>G#</item>
+        <item>A</item>
+        <item>A#</item>
+        <item>B</item>
+    </string-array>
+</resources>
+

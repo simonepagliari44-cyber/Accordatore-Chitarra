@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gitaarstemmer</string>
+    <string name="mode_tuner">Stemmer</string>
+    <string name="mode_detector">Nootverklikker</string>
+    <string name="switch_to_detector">Skakel na nootverklikker</string>
+    <string name="switch_to_tuner">Skakel na stemmer</string>
+    <string name="strings_label">SNARE</string>
+    <string name="auto">Auto</string>
+    <string name="play_a_string">Speel \'n snaar</string>
+    <string name="waiting_signal">Wag vir sein</string>
+    <string name="in_tune">GESTEM</string>
+    <string name="too_low">TE LAAG · trek stywer</string>
+    <string name="too_high">TE HOOG · laat slap</string>
+    <string name="string_info">Snaar %1$d · %2$s (%3$s%4$d) · %5$.2f Hz</string>
+    <string name="cents_value">%1$d ¢</string>
+    <string name="play_any_note">Speel enige noot\nnaby die mikrofoon</string>
+    <string name="signal_level">Sein vlak</string>
+    <string-array name="note_names">
+        <item>C</item>
+        <item>C#</item>
+        <item>D</item>
+        <item>D#</item>
+        <item>E</item>
+        <item>F</item>
+        <item>F#</item>
+        <item>G</item>
+        <item>G#</item>
+        <item>A</item>
+        <item>A#</item>
+        <item>B</item>
+    </string-array>
+</resources>
+
