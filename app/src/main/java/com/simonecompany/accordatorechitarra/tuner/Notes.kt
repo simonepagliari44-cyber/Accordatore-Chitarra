@@ -1,4 +1,4 @@
-package com.example.guitartuner.tuner
+package com.simonecompany.accordatorechitarra.tuner
 
 import kotlin.math.log2
 import kotlin.math.roundToInt

@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.guitartuner"
+    namespace = "com.simonecompany.accordatorechitarra"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.guitartuner"
+        applicationId = "com.simonecompany.accordatorechitarra"
         minSdk = 26
         targetSdk = 35
         versionCode = 1

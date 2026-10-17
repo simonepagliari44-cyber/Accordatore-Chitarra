@@ -1,4 +1,4 @@
-package com.example.guitartuner
+package com.simonecompany.accordatorechitarra
 
 import android.Manifest
 import android.content.pm.PackageManager
@@ -34,9 +34,9 @@ import androidx.core.content.ContextCompat
 import androidx.lifecycle.Lifecycle
 import androidx.lifecycle.LifecycleEventObserver
 import androidx.lifecycle.compose.LocalLifecycleOwner
-import com.example.guitartuner.tuner.TunerEngine
-import com.example.guitartuner.ui.GuitarTunerTheme
-import com.example.guitartuner.ui.TunerApp
+import com.simonecompany.accordatorechitarra.tuner.TunerEngine
+import com.simonecompany.accordatorechitarra.ui.GuitarTunerTheme
+import com.simonecompany.accordatorechitarra.ui.TunerApp
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

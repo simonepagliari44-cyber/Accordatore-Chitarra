@@ -1,4 +1,4 @@
-package com.example.guitartuner.tuner
+package com.simonecompany.accordatorechitarra.tuner
 
 import android.annotation.SuppressLint
 import android.media.AudioFormat

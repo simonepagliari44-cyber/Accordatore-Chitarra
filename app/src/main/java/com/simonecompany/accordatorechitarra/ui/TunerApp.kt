@@ -1,4 +1,4 @@
-package com.example.guitartuner.ui
+package com.simonecompany.accordatorechitarra.ui
 
 import androidx.annotation.StringRes
 import androidx.compose.foundation.Canvas
@@ -49,12 +49,12 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
-import com.example.guitartuner.R
-import com.example.guitartuner.tuner.GUITAR_STRINGS
-import com.example.guitartuner.tuner.GuitarString
-import com.example.guitartuner.tuner.Notes
-import com.example.guitartuner.tuner.TunerEngine
-import com.example.guitartuner.tuner.TunerUiState
+import com.simonecompany.accordatorechitarra.R
+import com.simonecompany.accordatorechitarra.tuner.GUITAR_STRINGS
+import com.simonecompany.accordatorechitarra.tuner.GuitarString
+import com.simonecompany.accordatorechitarra.tuner.Notes
+import com.simonecompany.accordatorechitarra.tuner.TunerEngine
+import com.simonecompany.accordatorechitarra.tuner.TunerUiState
 import kotlin.math.abs
 import kotlin.math.cos
 import kotlin.math.sin
